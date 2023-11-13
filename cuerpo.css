@@ -1,0 +1,34 @@
+
+body {
+      background-color: white;
+}
+h1   {
+      border: 2px solid black;
+      font-family: Georgia;
+      font-size: 300%;
+      text-align: center;
+}
+h2   {
+      color: blue;
+      font-family: Georgia;
+      font-size: 200%;
+}
+h3   {
+      font-family: Georgia;
+      font-size: 200%;
+}
+p   {
+      font-family: Palatino;
+      font-size: 150%;
+}
+
+div {
+  width: 500px;
+  margin: auto;
+  background-color: Papayawhip;
+}
+table, th, td {
+  border:1px solid black;
+  font-family: Palatino;
+  font-size: 150%;
+}
